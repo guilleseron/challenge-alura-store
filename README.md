@@ -8,6 +8,8 @@ Este proyecto analiza el rendimiento de 4 tiendas mediante el procesamiento de s
 ### 1. Ingreso Total por Tienda
 **Objetivo**: Calcular los ingresos brutos de cada tienda.
 
+<img width="646" height="690" alt="image" src="https://github.com/user-attachments/assets/6a85ee51-9cbb-472a-8302-7eea001e2062" />
+
 ### 2. Análisis de Ventas por Categoría
 **Objetivo**: Identificar las categorías de productos más populares.
 
@@ -17,8 +19,15 @@ Este proyecto analiza el rendimiento de 4 tiendas mediante el procesamiento de s
 ### 4. Productos Más/Menos Vendidos
 **Objetivo**: Identificar productos estrella y de bajo desempeño.
 
+<img width="989" height="390" alt="image" src="https://github.com/user-attachments/assets/dc8937e0-7f82-4f35-946c-a45485e69935" />
+<img width="989" height="390" alt="image" src="https://github.com/user-attachments/assets/ff124093-ba35-4787-8573-83a634dc306d" />
+<img width="989" height="390" alt="image" src="https://github.com/user-attachments/assets/fae95f64-fc03-440a-982e-6a47304fc63c" />
+<img width="989" height="390" alt="image" src="https://github.com/user-attachments/assets/402a4ba3-a060-4eb0-a59d-dd0e910554d1" />
+
 ### 5. Ingreso Total por Tienda
 **Objetivo**: Analizar costos logísticos.
+
+<img width="790" height="390" alt="image" src="https://github.com/user-attachments/assets/eea64271-b1d3-4c4e-a5eb-b8eb390dae8f" />
 
 
 # Informe Final: Recomendación de Tienda para Vender
